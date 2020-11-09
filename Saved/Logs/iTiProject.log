@@ -748,3 +748,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.09-13.12.44:159][860]Cmd: SELECT NONE
 [2020.11.09-13.12.44:776][932]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube17)
 [2020.11.09-13.16.46:127][861]LogSlate: Took 0.006127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.11.09-13.21.37:252][876]LogSlate: Took 0.006138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
